@@ -1,0 +1,8 @@
+scipy
+pandas
+numpy
+statsmodel
+matplotlib
+xlrd
+openpyxl
+pandas_datareader
